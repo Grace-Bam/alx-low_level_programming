@@ -1,4 +1,4 @@
-### C PROGRAMMING PROJECT FILE I/O
+## C PROGRAMMING PROJECT FILE I/O
 
 
 In this project, I learned about the three standard file descriptors and there `POSIX` names as well as the difference between function and system calls. I
